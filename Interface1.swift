@@ -3,7 +3,7 @@
 //  this-is-first-swift
 //
 //  Created by istabraq on 18/07/1445 AH.
-//
+// https://cloud2data.com/designing-ios-applications-for-various-form-factors/
 
 import SwiftUI
 
